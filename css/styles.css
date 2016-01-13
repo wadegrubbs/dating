@@ -1,3 +1,7 @@
-.tall,.short {
+.btn {
+  display: block;
+}
+
+#match {
   display: none;
 }
